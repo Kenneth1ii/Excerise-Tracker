@@ -1,4 +1,6 @@
-**Excerise-Tracker** is full stack Mern Application that keeps track of user excerise logs. 
+# Project  - *Excerise-Tracker*
+
+**Excerise-Tracker** is full MERN stack application that keeps track of user excerise logs. 
 
 ## Video Walkthrough
 

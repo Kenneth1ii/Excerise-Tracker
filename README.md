@@ -45,5 +45,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Credits
 
-Credits to FreeCodeCamp
+Credits to [FreeCodeCamp](https://www.freecodecamp.org/)
 

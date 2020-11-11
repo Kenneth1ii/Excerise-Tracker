@@ -1,3 +1,5 @@
+**Excerise-Tracker** is full stack Mern Application that keeps track of user excerise logs. 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:

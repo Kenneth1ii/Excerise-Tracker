@@ -1,3 +1,12 @@
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/HxciVoy2pE.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+GIF created with [RecordIt](https://recordit.co/).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

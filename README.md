@@ -11,7 +11,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [RecordIt](https://recordit.co/).
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
